@@ -1,72 +1,14 @@
 [
   {
-    "title": "የፍቅር እሸት",
-    "image_url": "https://github.com/mekditehay/book-datak3/blob/main/20260106_001727.jpg",
-    "book_url": "https://www.w3.org/W3C/DesignIssues/Architecture.pdf"
+    "title": "የመጀመሪያው መጽሐፍ",
+    "image_url": "https://raw.githubusercontent.com/mekditehay/book-datak3/main/img1.jpg"
   },
   {
-    "title": "የስኬት መንገዶች",
-    "image": "https://drive.google.com/file/d/1mxX9isbQtR-89fRh6kaJhl8Efx9YNtQt/view?usp=drivesdk",
-    "book_url": "https://raw.githubusercontent.com/mozilla/pdf.js/master/web/compressed.tracemonkey-pldi-09.pdf"
+    "title": "ሁለተኛው መጽሐፍ",
+    "image_url": "https://raw.githubusercontent.com/mekditehay/book-datak3/main/img2.jpg"
   },
   {
-    "title": "የጥበብ መዝገብ",
-    "image": "https://drive.google.com/file/d/1CnqZKTXjPjT9ywjXcWSgcqzMOgApOA6E/view?usp=drivesdk",
-    "book_url": "https://www.africau.edu/images/default/sample.pdf"
-  },
-  {
-    "title": "abc",
-    "image": "https://drive.google.com/file/d/13kYMRBPFis4Oa7hSksimt6aLrIHQ0bUI/view?usp=drivesdk",
-    "book_url": "https://www.w3.org/W3C/DesignIssues/Architecture.pdf"
-  },
-  {
-    "title": "cde",
-    "image": "https://drive.google.com/file/d/1eGsJQCBdk_fnto_3AV1G7urtvwOIQiRQ/view?usp=drivesdk",
-    "book_url": "https://raw.githubusercontent.com/mozilla/pdf.js/master/web/compressed.tracemonkey-pldi-09.pdf"
-  },
-  {
-    "title": "efg",
-    "image": "https://drive.google.com/file/d/1Yao58S3fJHkgLKW_g2EMryVj2IQgJcEJ/view?usp=drivesdk",
-    "book_url": "https://www.africau.edu/images/default/sample.pdf"
-  },
-  {
-    "title": "ghi",
-    "image": "https://drive.google.com/file/d/1gonynsHQF01b5e46nRP4CdJeAL2WaUOS/view?usp=drivesdk",
-    "book_url": "https://www.africau.edu/images/default/sample.pdf"
-  },
-  {
-    "title": "ilm",
-    "image": "https://drive.google.com/file/d/1Yao58S3fJHkgLKW_g2EMryVj2IQgJcEJ/view?usp=drivesdk",
-    "book_url": "https://www.w3.org/W3C/DesignIssues/Architecture.pdf"
-  },
-  {
-    "title": "mno",
-    "image": "https://drive.google.com/file/d/1mxX9isbQtR-89fRh6kaJhl8Efx9YNtQt/view?usp=drivesdk",
-    "book_url": "https://raw.githubusercontent.com/mozilla/pdf.js/master/web/compressed.tracemonkey-pldi-09.pdf"
-  },
-  {
-    "title": "opq",
-    "image": "https://drive.google.com/file/d/1Yao58S3fJHkgLKW_g2EMryVj2IQgJcEJ/view?usp=drivesdk",
-    "book_url": "https://www.africau.edu/images/default/sample.pdf"
-  },
-  {
-    "title": "qrs",
-    "image": "https://drive.google.com/file/d/1CnqZKTXjPjT9ywjXcWSgcqzMOgApOA6E/view?usp=drivesdk",
-    "book_url": "https://www.africau.edu/images/default/sample.pdf"
-  },
-  {
-    "title": "stu",
-    "image": "https://drive.google.com/file/d/1eGsJQCBdk_fnto_3AV1G7urtvwOIQiRQ/view?usp=drivesdk",
-    "book_url": "https://www.w3.org/W3C/DesignIssues/Architecture.pdf"
-  },
-  {
-    "title": "uvw",
-    "image": "https://drive.google.com/file/d/13kYMRBPFis4Oa7hSksimt6aLrIHQ0bUI/view?usp=drivesdk",
-    "book_url": "https://raw.githubusercontent.com/mozilla/pdf.js/master/web/compressed.tracemonkey-pldi-09.pdf"
-  },
-  {
-    "title": "wxy",
-    "image": "https://drive.google.com/file/d/1gonynsHQF01b5e46nRP4CdJeAL2WaUOS/view?usp=drivesdk",
-    "book_url": "https://www.africau.edu/images/default/sample.pdf"
+    "title": "ሦስተኛው መጽሐፍ",
+    "image_url": "https://raw.githubusercontent.com/mekditehay/book-datak3/main/img3.jpg"
   }
 ]
