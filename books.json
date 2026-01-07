@@ -2,22 +2,29 @@
   {
     "id": "1",
     "title": "ፍቅር እስከ መቃብር",
-    "image_url": "https://example.com/photo1.jpg",
+    "image_url": "https://raw.githubusercontent.com/mekditehay/book-datak3/refs/heads/main/20260106_001727.jpg",
     "read_url": "https://example.com/read1",
     "download_url": "https://example.com/book1.pdf"
   },
   {
     "id": "2",
     "title": "ኦሮማይ",
-    "image_url": "https://example.com/photo2.jpg",
+    "image_url": "https://raw.githubusercontent.com/mekditehay/book-datak3/refs/heads/main/20260106_001727.jpg",
     "read_url": "https://example.com/read2",
     "download_url": "https://example.com/book2.pdf"
   },
   {
   "id": "3",
   "title": "kidus",
-  "image_url": "ምስል",
+  "image_url": "https://raw.githubusercontent.com/mekditehay/book-datak3/refs/heads/main/20260106_001727.jpg",
   "read_url": "ማንበብ",
   "download_url": "ሚጅማውረድ",
+  },
+  {
+    "id": "4",
+    "title": "ኦ",
+    "image_url": "https://raw.githubusercontent.com/mekditehay/book-datak3/refs/heads/main/20260106_001727.jpg",
+    "read_url": "https://example.com/read2",
+    "download_url": "https://example.com/book2.pdf"
   }
 ]
