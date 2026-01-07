@@ -1,26 +1,50 @@
 [
   {
-    "title": "ፍቅር እስከ መቃብር",
-    "image_url": "https://raw.githubusercontent.com/mekditehay/book-datak3/refs/heads/main/20260106_001727.jpg",
+    "title": "የመጀመሪያው መጽሐፍ",
+    "image_url": "hhttps://raw.githubusercontent.com/mekditehay/book-datak3/refs/heads/main/20260106_001727.jpg",
     "read_url": "https://example.com/read1",
-    "download_url": "https://example.com/book1.pdf"
+    "download_url": "https://example.com/file1.pdf"
   },
   {
-    "title": "ኦሮማይ",
+    "title": "ሁለተኛው መጽሐፍ",
     "image_url": "https://raw.githubusercontent.com/mekditehay/book-datak3/refs/heads/main/20260106_001727.jpg",
     "read_url": "https://example.com/read2",
-    "download_url": "https://example.com/book2.pdf"
+    "download_url": "https://example.com/file2.pdf"
   },
   {
-  "title": "kidus",
-  "image_url": "https://raw.githubusercontent.com/mekditehay/book-datak3/refs/heads/main/20260106_001727.jpg",
-  "read_url": "ማንበብ",
-  "download_url": "ሚጅማውረድ",
-  },
-  {
-    "title": "ኦ",
+    "title": "ሁለተኛው መጽሐፍ",
     "image_url": "https://raw.githubusercontent.com/mekditehay/book-datak3/refs/heads/main/20260106_001727.jpg",
     "read_url": "https://example.com/read2",
-    "download_url": "https://example.com/book2.pdf"
+    "download_url": "https://example.com/file2.pdf"
+  },
+  {
+    "title": "ሁለተኛው መጽሐፍ",
+    "image_url": "https://raw.githubusercontent.com/mekditehay/book-datak3/refs/heads/main/20260106_001727.jpg",
+    "read_url": "https://example.com/read2",
+    "download_url": "https://example.com/file2.pdf"
+  },
+  {
+    "title": "ሁለተኛው መጽሐፍ",
+    "image_url": "https://raw.githubusercontent.com/mekditehay/book-datak3/refs/heads/main/20260106_001727.jpg",
+    "read_url": "https://example.com/read2",
+    "download_url": "https://example.com/file2.pdf"
+  },
+  {
+    "title": "ሁለተኛው መጽሐፍ",
+    "image_url": "https://raw.githubusercontent.com/mekditehay/book-datak3/refs/heads/main/20260106_001727.jpg",
+    "read_url": "https://example.com/read2",
+    "download_url": "https://example.com/file2.pdf"
+  },
+  {
+    "title": "ሁለተኛው መጽሐፍ",
+    "image_url": "https://raw.githubusercontent.com/mekditehay/book-datak3/refs/heads/main/20260106_001727.jpg",
+    "read_url": "https://example.com/read2",
+    "download_url": "https://example.com/file2.pdf"
+  },
+  {
+    "title": "ሁለተኛው መጽሐፍ",
+    "image_url": "https://raw.githubusercontent.com/mekditehay/book-datak3/refs/heads/main/20260106_001727.jpg",
+    "read_url": "https://example.com/read2",
+    "download_url": "https://example.com/file2.pdf"
   }
 ]
