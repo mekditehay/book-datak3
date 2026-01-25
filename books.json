@@ -1,50 +1,12 @@
 [
   {
     "title": "WAREZ",
+    "data": "2026",
+    "author": "56",
+    "page": "109"
+    "description": "UK Drill / NY Drill"
     "image_url": "https://raw.githubusercontent.com/mekditehay/book-datak3/refs/heads/main/download.jpeg",
     "read_url": "https://drive.google.com/uc?export=download&id=1xC0cwRB_LipCEylRVWms9VsT6t9dH2fn",
     "download_url": "https://drive.usercontent.google.com/u/0/uc?id=1xC0cwRB_LipCEylRVWms9VsT6t9dH2fn&export=download"
-  },
-  {
-    "title": "ሁለተኛው መጽሐፍ",
-    "image_url": "https://raw.githubusercontent.com/mekditehay/book-datak3/refs/heads/main/20260106_001727.jpg",
-    "read_url": "https://example.com/read2",
-    "download_url": "https://example.com/file2.pdf"
-  },
-  {
-    "title": "ሁለተኛው መጽሐፍ",
-    "image_url": "https://raw.githubusercontent.com/mekditehay/book-datak3/refs/heads/main/20260106_001727.jpg",
-    "read_url": "https://example.com/read2",
-    "download_url": "https://example.com/file2.pdf"
-  },
-  {
-    "title": "ሁለተኛው መጽሐፍ",
-    "image_url": "https://raw.githubusercontent.com/mekditehay/book-datak3/refs/heads/main/20260106_001727.jpg",
-    "read_url": "https://example.com/read2",
-    "download_url": "https://example.com/file2.pdf"
-  },
-  {
-    "title": "ሁለተኛው መጽሐፍ",
-    "image_url": "https://raw.githubusercontent.com/mekditehay/book-datak3/refs/heads/main/20260106_001727.jpg",
-    "read_url": "https://example.com/read2",
-    "download_url": "https://example.com/file2.pdf"
-  },
-  {
-    "title": "ሁለተኛው መጽሐፍ",
-    "image_url": "https://raw.githubusercontent.com/mekditehay/book-datak3/refs/heads/main/20260106_001727.jpg",
-    "read_url": "https://example.com/read2",
-    "download_url": "https://example.com/file2.pdf"
-  },
-  {
-    "title": "ሁለተኛው መጽሐፍ",
-    "image_url": "https://raw.githubusercontent.com/mekditehay/book-datak3/refs/heads/main/20260106_001727.jpg",
-    "read_url": "https://example.com/read2",
-    "download_url": "https://example.com/file2.pdf"
-  },
-  {
-    "title": "ሁለተኛው መጽሐፍ",
-    "image_url": "https://raw.githubusercontent.com/mekditehay/book-datak3/refs/heads/main/20260106_001727.jpg",
-    "read_url": "https://example.com/read2",
-    "download_url": "https://example.com/file2.pdf"
   }
-]
+  [
