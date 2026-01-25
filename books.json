@@ -1,12 +1,18 @@
 [
   {
-    "title": "WAREZ",
-    "data": "2026",
-    "author": "56",
-    "page": "109"
-    "description": "UK Drill / NY Drill"
-    "image_url": "https://raw.githubusercontent.com/mekditehay/book-datak3/refs/heads/main/download.jpeg",
-    "read_url": "https://drive.google.com/uc?export=download&id=1xC0cwRB_LipCEylRVWms9VsT6t9dH2fn",
-    "download_url": "https://drive.usercontent.google.com/u/0/uc?id=1xC0cwRB_LipCEylRVWms9VsT6t9dH2fn&export=download"
+    "image": "ttps://raw.githubusercontent.com/mekditehay/book-datak3/refs/heads/main/download.jpeg",
+    "title": "የመጽሐፍ ስም",
+    "page": "100",
+    "author": "ጸሐፊው",
+    "description": "መግለጫ",
+    "book_url": "https://drive.google.com/uc?export=download&id=1xC0cwRB_LipCEylRVWms9VsT6t9dH2fn"
+  },
+  {
+    "image": "url_እዚህ_ይገባል",
+    "title": "ሁለተኛ መጽሐፍ",
+    "page": "200",
+    "author": "ጸሐፊ",
+    "description": "መግለጫ",
+    "book_url": "ሊንክ"
   }
 ]
