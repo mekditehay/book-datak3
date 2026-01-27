@@ -1,18 +1,7 @@
-[
-  {
-    "image": "https://raw.githubusercontent.com/mekditehay/book-datak3/refs/heads/main/download.jpeg",
-    "title": "kimem",
-    "page": "100",
-    "author": "kidus",
-    "description": "መግለጫ",
-    "book_url": "https://drive.google.com/file/d/1xC0cwRB_LipCEylRVWms9VsT6t9dH2fn/view?usp=drivesdk"
-  },
-  {
-    "image": "url_እዚህ_ይገባል",
-    "title": "ሁለተኛ መጽሐፍ",
-    "page": "200",
-    "author": "ጸሐፊ",
-    "description": "መግለጫ",
-    "book_url": "ሊንክ"
-  }
-]
+{
+  "title": "አዲስ መጽሐፍ",
+  "author": "ደራሲ ስም",
+  "description": "ስለ መጽሐፉ መግለጫ...",
+  "image_url": "https://raw.githubusercontent.com/mekditehay/book-datak3/main/sample.jpg",
+  "pdf_url": "https://github.com/mekditehay/book-datak3/raw/main/sample.pdf"
+}
