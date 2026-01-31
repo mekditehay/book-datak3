@@ -1,18 +1,20 @@
 [
-    {
-    "image": "https://raw.githubusercontent.com/mekditehay/book-datak3/refs/heads/main/Screenshot_20260131-053728_1.png ",
-    "title": "ራስን መለወጥ",
-    "page": "208",
-    "author": "ዶ/ር ማይልስ ሙንሮ ",
-    "description": "መግለጫ",
-    "book_url": "https://drive.google.com/file/d/1896gLz0kBmqnB1dR-DYAcAVLsLO22APa/view?usp=drivesdk",
+  {
+    "id": "1",
+    "title": "ፍቅር እስከ መቃብር",
+    "author": "ሐዲስ ዓለማየሁ",
+    "description": "ታሪካዊ እና የፍቅር ልብ ወለድ መጽሐፍ።",
+    "image_url": "https://example.com/images/fiker.jpg",
+    "read_url": "https://example.com/pdfs/fiker_read.pdf",
+    "download_url": "https://example.com/pdfs/fiker_download.pdf"
   },
   {
-    "image": "https://raw.githubusercontent.com/mekditehay/book-datak3/refs/heads/main/20260131_194022.jpg",
-    "title": "አልፀፀትም",
-    "page": "425",
-    "author": "ጀዋር መሐመድ",
-    "description": "መግለጫ",
-    "book_url": "https://drive.google.com/file/d/1Ofu6nsvB8BaRtvP7Et32LUffthGCVUtZ/view?usp=drivesdk",
+    "id": "2",
+    "title": "ኦሮማይ",
+    "author": "በዓሉ ግርማ",
+    "description": "በኤርትራ ጦርነት ወቅት የተጻፈ ታዋቂ መጽሐፍ።",
+    "image_url": "https://example.com/images/oromay.jpg",
+    "read_url": "https://example.com/pdfs/oromay_read.pdf",
+    "download_url": "https://example.com/pdfs/oromay_download.pdf"
   }
 ]
